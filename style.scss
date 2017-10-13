@@ -32,12 +32,12 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: $darkerGray;
+  color: rgb(102, 255, 51);
   font-weight: bold;
 
   line-height: 1.7;
   margin: 1em 0 15px;
-  padding: 0;
+  padding: 0 10px;
 
   @include mobile {
     line-height: 1.4;

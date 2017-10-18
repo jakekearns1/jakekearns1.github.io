@@ -4,6 +4,6 @@ title: chicago doyle
 ---
 
 
-<video width="320" height="240" controls>
-  <source src="movie.mp4" type="video/mp4">
-  <source src="movie.ogg" type="video/ogg">
+<video width="320" height="550" controls>
+  <source src="movie.mp4" type="https://www.youtube.com/watch?v=ZjV-7OB0ozY">
+  <source src="movie.ogg" type="https://www.youtube.com/watch?v=ZjV-7OB0ozY">

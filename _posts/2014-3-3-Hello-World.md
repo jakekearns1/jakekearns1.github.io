@@ -4,4 +4,4 @@ title: chicago doyle
 ---
 
 
-https://www.youtube.com/watch?v=ZjV-7OB0ozY
+video: ("https://www.youtube.com/watch?v=ZjV-7OB0ozY");

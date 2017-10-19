@@ -2,17 +2,11 @@
 layout: page
 title: About
 permalink: /about/
-color:#45A29E
 ---
+### Information
 
-Some information about me!
+I love playing rugby and football!
 
-### More Information
-color:#45A29E
-
-Ilove playing rugby and football!
-
-### Contact me
-color:#45A29E
+### Contact me @
 
 [email@domain.com](mailto:email@domain.com)

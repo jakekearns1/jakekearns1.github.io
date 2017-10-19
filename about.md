@@ -5,7 +5,7 @@ permalink: /about/
 ---
 ### Information
 
-I love playing rugby and footba!!
+I love playing rugby and football!!
 
 ### Contact me @
 

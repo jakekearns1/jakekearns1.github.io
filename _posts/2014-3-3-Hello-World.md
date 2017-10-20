@@ -1,5 +1,5 @@
 ---
 layout: post
-title: chicago doyle
+title: Chicago Doyle
 ---
 

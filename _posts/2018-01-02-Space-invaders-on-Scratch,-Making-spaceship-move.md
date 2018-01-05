@@ -25,7 +25,7 @@ published: true
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>Our target for our lesson was  to make our spaceship move left and right across the screen and to make it shoot.</td>
+    <td>Our target for our lesson was to make our spaceship move left and right across the screen and to make it shoot.</td>
   </tr>
   <tr>
     <td>Did I reach my target? </td>
